@@ -1,2 +1,2 @@
-# BME261
-R code created for BME 261 - Prototyping, Simulation, and Design
+# BME213
+R code created for BME 213 - Prototyping, Simulation, and Design
